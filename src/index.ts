@@ -87,7 +87,7 @@ export class JkBmsCard extends LitElement {
 
 (window as any).customCards.push({
     type: MAIN_NAME,
-    name: 'JK BMS Card',
+    name: 'JK BMS Card_STB',
     preview: true,
     description: localize('common.description'),
     configurable: true
